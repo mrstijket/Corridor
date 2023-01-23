@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: 303fc467ac8cf4d4abe82b034944148c
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -5327900189342603203
+    second: w.001|air_cheek|Take 001|BaseLayer
+  - first:
+      74: 1288806191325579408
+    second: w.001|angry_brow_01|Take 001|BaseLayer
+  - first:
+      74: -2844327680450797956
+    second: w.001|angry_brow|Take 001|BaseLayer
+  - first:
+      74: -8789790228607007309
+    second: w.001|base_brrow_saskin|Take 001|BaseLayer
+  - first:
+      74: -6913512605810889729
+    second: w.001|base_brrow|Take 001|BaseLayer
+  - first:
+      74: -1481300031816565487
+    second: w.001|base_glasses|Take 001|BaseLayer
+  - first:
+      74: 66288562119904802
+    second: w.001|base_hair|Take 001|BaseLayer
+  - first:
+      74: -8132650669871696628
+    second: w.001|base_tshirt001|Take 001|BaseLayer
+  - first:
+      74: -4364450579878718346
+    second: w.001|body|Take 001|BaseLayer
+  - first:
+      74: 2204399133454399449
+    second: w.001|c_littlegirl_eye_refl_L10|Take 001|BaseLayer
+  - first:
+      74: 8252331092730587993
+    second: w.001|c_littlegirl_eye_refl_L11|Take 001|BaseLayer
+  - first:
+      74: -5666651483999302431
+    second: w.001|c_littlegirl_eye_refl_L12|Take 001|BaseLayer
+  - first:
+      74: -2632324960952696097
+    second: w.001|c_littlegirl_eye_refl_L13|Take 001|BaseLayer
+  - first:
+      74: 1017021065753825405
+    second: w.001|c_littlegirl_eye_refl_L14|Take 001|BaseLayer
+  - first:
+      74: -5503361891672296472
+    second: w.001|c_littlegirl_eye_refl_L15|Take 001|BaseLayer
+  - first:
+      74: 8910264355728667805
+    second: w.001|c_littlegirl_eye_refl_L16|Take 001|BaseLayer
+  - first:
+      74: -2674755522172054930
+    second: w.001|c_littlegirl_eye_refl_L17|Take 001|BaseLayer
+  - first:
+      74: 1211828126526232681
+    second: w.001|c_littlegirl_eye_refl_L18|Take 001|BaseLayer
+  - first:
+      74: -5280980132181432254
+    second: w.001|c_littlegirl_eye_refl_L19|Take 001|BaseLayer
+  - first:
+      74: 1652051394171464130
+    second: w.001|c_littlegirl_eye_refl_L2|Take 001|BaseLayer
+  - first:
+      74: 3736019131567874120
+    second: w.001|c_littlegirl_eye_refl_L3|Take 001|BaseLayer
+  - first:
+      74: 8119793983630349461
+    second: w.001|c_littlegirl_eye_refl_L4|Take 001|BaseLayer
+  - first:
+      74: 1468710887528307788
+    second: w.001|c_littlegirl_eye_refl_L5|Take 001|BaseLayer
+  - first:
+      74: 1654609556368536935
+    second: w.001|c_littlegirl_eye_refl_L6|Take 001|BaseLayer
+  - first:
+      74: -5084330933003290930
+    second: w.001|c_littlegirl_eye_refl_L7|Take 001|BaseLayer
+  - first:
+      74: 4142563855293400105
+    second: w.001|e_a|Take 001|BaseLayer
+  - first:
+      74: -8549040277612063111
+    second: w.001|eye_close|Take 001|BaseLayer
+  - first:
+      74: -7011457999458542595
+    second: w.001|e|Take 001|BaseLayer
+  - first:
+      74: 5162719089908643
+    second: w.001|Group002|Take 001|BaseLayer.001
+  - first:
+      74: -3337922133769707813
+    second: w.001|group1_gum_lower|Take 001|BaseLayer
+  - first:
+      74: -793490047484675695
+    second: w.001|group1_gum_upper|Take 001|BaseLayer
+  - first:
+      74: -1528206163649403197
+    second: w.001|hair_01|Take 001|BaseLayer
+  - first:
+      74: -1110453152766778474
+    second: w.001|hair_02|Take 001|BaseLayer
+  - first:
+      74: -4800568765234885739
+    second: w.001|hair_03|Take 001|BaseLayer
+  - first:
+      74: 4979042534953363738
+    second: w.001|hair_04|Take 001|BaseLayer
+  - first:
+      74: -1503190340219603496
+    second: w.001|hair_05|Take 001|BaseLayer
+  - first:
+      74: 5845816417203321997
+    second: w.001|hair_06|Take 001|BaseLayer
+  - first:
+      74: -1254859732904913466
+    second: w.001|hair_07|Take 001|BaseLayer
+  - first:
+      74: 3989347842001681735
+    second: w.001|head_base|Take 001|BaseLayer
+  - first:
+      74: -8378202873464407745
+    second: w.001|head_saskin|Take 001|BaseLayer
+  - first:
+      74: 2585941578787791910
+    second: w.001|l_eye_close|Take 001|BaseLayer
+  - first:
+      74: -6120375895085718632
+    second: w.001|lower_teeth_01|Take 001|BaseLayer
+  - first:
+      74: 2838101679945978521
+    second: w.001|lower_teeth_02|Take 001|BaseLayer
+  - first:
+      74: -4042300122998071994
+    second: w.001|lower_teeth_03.001|Take 001|BaseLayer
+  - first:
+      74: -7755873785719280858
+    second: w.001|lower_teeth_03|Take 001|BaseLayer
+  - first:
+      74: 3370609467420113989
+    second: w.001|lower_teeth_04.001|Take 001|BaseLayer
+  - first:
+      74: 7192040872082715689
+    second: w.001|lower_teeth_04|Take 001|BaseLayer
+  - first:
+      74: -5529317043607980265
+    second: w.001|lower_teeth_05|Take 001|BaseLayer
+  - first:
+      74: -2421327695744278850
+    second: w.001|lower_teeth_06|Take 001|BaseLayer
+  - first:
+      74: 8603155644600374910
+    second: w.001|lower_teeth_07|Take 001|BaseLayer
+  - first:
+      74: 1534265437426147659
+    second: w.001|lower_teeth_08|Take 001|BaseLayer
+  - first:
+      74: -6398972588117823286
+    second: w.001|lower_teeth_09|Take 001|BaseLayer
+  - first:
+      74: -5805706972046778800
+    second: w.001|mesut_13:tongue.001|Take 001|BaseLayer
+  - first:
+      74: 5278096766972713599
+    second: w.001|mesut_13:tongue1.001|Take 001|BaseLayer
+  - first:
+      74: 4355379970451556409
+    second: w.001|mesut_13:tongue1|Take 001|BaseLayer
+  - first:
+      74: 185650249015990310
+    second: w.001|mesut_13:tongue|Take 001|BaseLayer
+  - first:
+      74: -7888997292198215570
+    second: w.001|mesut_shoes|Take 001|BaseLayer
+  - first:
+      74: -8111057576737205985
+    second: w.001|m|Take 001|BaseLayer
+  - first:
+      74: -4484046106688942401
+    second: w.001|o_u2|Take 001|BaseLayer
+  - first:
+      74: -8676244273276399265
+    second: w.001|o_u|Take 001|BaseLayer
+  - first:
+      74: 1614071939629507777
+    second: w.001|one_dusme|Take 001|BaseLayer
+  - first:
+      74: 4434522222490771407
+    second: w.001|pantolon|Take 001|BaseLayer
+  - first:
+      74: -7487569380192106740
+    second: w.001|polySurface105|Take 001|BaseLayer
+  - first:
+      74: 3677848526253820304
+    second: w.001|polySurface108|Take 001|BaseLayer
+  - first:
+      74: 6088981856095405299
+    second: w.001|polySurface112|Take 001|BaseLayer
+  - first:
+      74: -5167938368916371058
+    second: w.001|polySurface113|Take 001|BaseLayer
+  - first:
+      74: -4563893600965454454
+    second: w.001|polySurface114|Take 001|BaseLayer
+  - first:
+      74: -1540996117420296596
+    second: w.001|polySurface115|Take 001|BaseLayer
+  - first:
+      74: -888545494194300538
+    second: w.001|r_eye_close|Take 001|BaseLayer
+  - first:
+      74: -2165737570059586336
+    second: w.001|sad_brow_01|Take 001|BaseLayer
+  - first:
+      74: 4498419055091335543
+    second: w.001|sad_brow|Take 001|BaseLayer
+  - first:
+      74: -906000213413070483
+    second: w.001|sad|Take 001|BaseLayer
+  - first:
+      74: 6590390601988428179
+    second: w.001|smile|Take 001|BaseLayer
+  - first:
+      74: 1259196367356637551
+    second: w.001|tongue1|Take 001|BaseLayer
+  - first:
+      74: -9128211912576017576
+    second: w.001|tongue2|Take 001|BaseLayer
+  - first:
+      74: 5872355067055038356
+    second: w.001|tongue3|Take 001|BaseLayer
+  - first:
+      74: 4739093242966691254
+    second: w.001|tongue4|Take 001|BaseLayer
+  - first:
+      74: -2141751091161497688
+    second: w.001|tongue5|Take 001|BaseLayer
+  - first:
+      74: 2219256534537067099
+    second: w.001|tongue6|Take 001|BaseLayer
+  - first:
+      74: -7015267213918685689
+    second: w.001|tongue7|Take 001|BaseLayer
+  - first:
+      74: -3725675355224122642
+    second: w.001|tongue|Take 001|BaseLayer
+  - first:
+      74: -7760449585033275889
+    second: w.001|upper_teeh_01|Take 001|BaseLayer
+  - first:
+      74: -4194270004410905666
+    second: w.001|upper_teeh_02|Take 001|BaseLayer
+  - first:
+      74: -5084164142169654777
+    second: w.001|upper_teeh_03.001|Take 001|BaseLayer
+  - first:
+      74: -8936868246410137537
+    second: w.001|upper_teeh_03|Take 001|BaseLayer
+  - first:
+      74: 3259629757052008904
+    second: w.001|upper_teeh_04.001|Take 001|BaseLayer
+  - first:
+      74: 58036301144398866
+    second: w.001|upper_teeh_04|Take 001|BaseLayer
+  - first:
+      74: -7387387737085430749
+    second: w.001|upper_teeh_05|Take 001|BaseLayer
+  - first:
+      74: 655105153112037961
+    second: w.001|upper_teeh_06|Take 001|BaseLayer
+  - first:
+      74: 6070074891823432974
+    second: w.001|upper_teeh_07|Take 001|BaseLayer
+  - first:
+      74: -3310486453528668629
+    second: w.001|upper_teeh_08|Take 001|BaseLayer
+  - first:
+      74: -8447436421652560292
+    second: w.001|upper_teeh_09|Take 001|BaseLayer
+  - first:
+      74: -3644729610738832095
+    second: w.001|u|Take 001|BaseLayer
+  - first:
+      74: -4552170531769719774
+    second: w.001|w|Take 001|BaseLayer.001
+  - first:
+      74: 914948718106065462
+    second: w.001|yamuk|Take 001|BaseLayer
+  - first:
+      74: 1414512065978516107
+    second: w.001|yanak_kaldirir|Take 001|BaseLayer
+  - first:
+      74: 6638449014946167798
+    second: Group002.001|air_cheek|Take 001|BaseLayer
+  - first:
+      74: -5873505367881009144
+    second: Group002.001|angry_brow_01|Take 001|BaseLayer
+  - first:
+      74: 7940670620629703479
+    second: Group002.001|angry_brow|Take 001|BaseLayer
+  - first:
+      74: 5311073944908339825
+    second: Group002.001|base_brrow_saskin|Take 001|BaseLayer
+  - first:
+      74: -6786169413150965372
+    second: Group002.001|base_brrow|Take 001|BaseLayer
+  - first:
+      74: 3372465799213956815
+    second: Group002.001|base_glasses|Take 001|BaseLayer
+  - first:
+      74: 5475504501450391951
+    second: Group002.001|base_hair|Take 001|BaseLayer
+  - first:
+      74: 6384481806684128011
+    second: Group002.001|base_tshirt001|Take 001|BaseLayer
+  - first:
+      74: -3431086340394859932
+    second: Group002.001|body|Take 001|BaseLayer
+  - first:
+      74: -4559912067799685988
+    second: Group002.001|c_littlegirl_eye_refl_L10|Take 001|BaseLayer
+  - first:
+      74: 7233448013233446579
+    second: Group002.001|c_littlegirl_eye_refl_L11|Take 001|BaseLayer
+  - first:
+      74: -2005338315195346773
+    second: Group002.001|c_littlegirl_eye_refl_L12|Take 001|BaseLayer
+  - first:
+      74: -66725945487332083
+    second: Group002.001|c_littlegirl_eye_refl_L13|Take 001|BaseLayer
+  - first:
+      74: -8076525404552957885
+    second: Group002.001|c_littlegirl_eye_refl_L14|Take 001|BaseLayer
+  - first:
+      74: 3035209207894279589
+    second: Group002.001|c_littlegirl_eye_refl_L15|Take 001|BaseLayer
+  - first:
+      74: 3271665302372740376
+    second: Group002.001|c_littlegirl_eye_refl_L16|Take 001|BaseLayer
+  - first:
+      74: 9135374270047292352
+    second: Group002.001|c_littlegirl_eye_refl_L17|Take 001|BaseLayer
+  - first:
+      74: -3980274742131907709
+    second: Group002.001|c_littlegirl_eye_refl_L18|Take 001|BaseLayer
+  - first:
+      74: -3380769219009846260
+    second: Group002.001|c_littlegirl_eye_refl_L19|Take 001|BaseLayer
+  - first:
+      74: -1404921486197666541
+    second: Group002.001|c_littlegirl_eye_refl_L2|Take 001|BaseLayer
+  - first:
+      74: 7288187032331196932
+    second: Group002.001|c_littlegirl_eye_refl_L3|Take 001|BaseLayer
+  - first:
+      74: -1461743053448580278
+    second: Group002.001|c_littlegirl_eye_refl_L4|Take 001|BaseLayer
+  - first:
+      74: 6311315400684056929
+    second: Group002.001|c_littlegirl_eye_refl_L5|Take 001|BaseLayer
+  - first:
+      74: 6889095455717317754
+    second: Group002.001|c_littlegirl_eye_refl_L6|Take 001|BaseLayer
+  - first:
+      74: 6493083114220876950
+    second: Group002.001|c_littlegirl_eye_refl_L7|Take 001|BaseLayer
+  - first:
+      74: 5003223520399625683
+    second: Group002.001|e_a|Take 001|BaseLayer
+  - first:
+      74: 2308826646109967934
+    second: Group002.001|eye_close|Take 001|BaseLayer
+  - first:
+      74: 7738188996192224238
+    second: Group002.001|e|Take 001|BaseLayer
+  - first:
+      74: -5352142562107808069
+    second: Group002.001|Group002|Take 001|BaseLayer.001
+  - first:
+      74: 4987079656108297908
+    second: Group002.001|group1_gum_lower|Take 001|BaseLayer
+  - first:
+      74: 1822919115135179397
+    second: Group002.001|group1_gum_upper|Take 001|BaseLayer
+  - first:
+      74: 4499866147858099220
+    second: Group002.001|hair_01|Take 001|BaseLayer
+  - first:
+      74: 9217169562941967224
+    second: Group002.001|hair_02|Take 001|BaseLayer
+  - first:
+      74: 2999398313893822164
+    second: Group002.001|hair_03|Take 001|BaseLayer
+  - first:
+      74: 3459692839553938246
+    second: Group002.001|hair_04|Take 001|BaseLayer
+  - first:
+      74: -5231344464677834294
+    second: Group002.001|hair_05|Take 001|BaseLayer
+  - first:
+      74: -920668976770113793
+    second: Group002.001|hair_06|Take 001|BaseLayer
+  - first:
+      74: 4508986811791614807
+    second: Group002.001|hair_07|Take 001|BaseLayer
+  - first:
+      74: 2529796688378945325
+    second: Group002.001|head_base|Take 001|BaseLayer
+  - first:
+      74: -6208857604013771737
+    second: Group002.001|head_saskin|Take 001|BaseLayer
+  - first:
+      74: 4614330193368626567
+    second: Group002.001|l_eye_close|Take 001|BaseLayer
+  - first:
+      74: 3468777326218240023
+    second: Group002.001|lower_teeth_01|Take 001|BaseLayer
+  - first:
+      74: 5622558216822248198
+    second: Group002.001|lower_teeth_02|Take 001|BaseLayer
+  - first:
+      74: -8385186819437302786
+    second: Group002.001|lower_teeth_03.001|Take 001|BaseLayer
+  - first:
+      74: -3835331693205391664
+    second: Group002.001|lower_teeth_03|Take 001|BaseLayer
+  - first:
+      74: 4562075623330517339
+    second: Group002.001|lower_teeth_04.001|Take 001|BaseLayer
+  - first:
+      74: -9042349347397737659
+    second: Group002.001|lower_teeth_04|Take 001|BaseLayer
+  - first:
+      74: -7231985507267177685
+    second: Group002.001|lower_teeth_05|Take 001|BaseLayer
+  - first:
+      74: 60275504873042638
+    second: Group002.001|lower_teeth_06|Take 001|BaseLayer
+  - first:
+      74: 1356790422225950942
+    second: Group002.001|lower_teeth_07|Take 001|BaseLayer
+  - first:
+      74: -3875779045520484360
+    second: Group002.001|lower_teeth_08|Take 001|BaseLayer
+  - first:
+      74: -6335538074225556992
+    second: Group002.001|lower_teeth_09|Take 001|BaseLayer
+  - first:
+      74: 8191060403235728530
+    second: Group002.001|mesut_13:tongue.001|Take 001|BaseLayer
+  - first:
+      74: 4759068422962673598
+    second: Group002.001|mesut_13:tongue1.001|Take 001|BaseLayer
+  - first:
+      74: 7445869405893901505
+    second: Group002.001|mesut_13:tongue1|Take 001|BaseLayer
+  - first:
+      74: -1488236792873216622
+    second: Group002.001|mesut_13:tongue|Take 001|BaseLayer
+  - first:
+      74: 2081646906935696263
+    second: Group002.001|mesut_shoes|Take 001|BaseLayer
+  - first:
+      74: 6155545134841908743
+    second: Group002.001|m|Take 001|BaseLayer
+  - first:
+      74: 7087179933350760455
+    second: Group002.001|o_u2|Take 001|BaseLayer
+  - first:
+      74: -5596887168014481154
+    second: Group002.001|o_u|Take 001|BaseLayer
+  - first:
+      74: -6678148827228563566
+    second: Group002.001|one_dusme|Take 001|BaseLayer
+  - first:
+      74: 1392516690802836692
+    second: Group002.001|pantolon|Take 001|BaseLayer
+  - first:
+      74: 861593417876167795
+    second: Group002.001|polySurface105|Take 001|BaseLayer
+  - first:
+      74: 2268281250371135463
+    second: Group002.001|polySurface108|Take 001|BaseLayer
+  - first:
+      74: 2466615996435378326
+    second: Group002.001|polySurface112|Take 001|BaseLayer
+  - first:
+      74: -8612938561414109899
+    second: Group002.001|polySurface113|Take 001|BaseLayer
+  - first:
+      74: -4466976061218272078
+    second: Group002.001|polySurface114|Take 001|BaseLayer
+  - first:
+      74: -6610693067783601981
+    second: Group002.001|polySurface115|Take 001|BaseLayer
+  - first:
+      74: 4823449336760000175
+    second: Group002.001|r_eye_close|Take 001|BaseLayer
+  - first:
+      74: -1661552661353954205
+    second: Group002.001|sad_brow_01|Take 001|BaseLayer
+  - first:
+      74: 2886358085888912204
+    second: Group002.001|sad_brow|Take 001|BaseLayer
+  - first:
+      74: 6912051696669721036
+    second: Group002.001|sad|Take 001|BaseLayer
+  - first:
+      74: -5743934970116444764
+    second: Group002.001|smile|Take 001|BaseLayer
+  - first:
+      74: 7633077354592747130
+    second: Group002.001|tongue1|Take 001|BaseLayer
+  - first:
+      74: -8363871887191161890
+    second: Group002.001|tongue2|Take 001|BaseLayer
+  - first:
+      74: 1217675074370031977
+    second: Group002.001|tongue3|Take 001|BaseLayer
+  - first:
+      74: -2589012512165401146
+    second: Group002.001|tongue4|Take 001|BaseLayer
+  - first:
+      74: -2658089393061164239
+    second: Group002.001|tongue5|Take 001|BaseLayer
+  - first:
+      74: -3324829778625163536
+    second: Group002.001|tongue6|Take 001|BaseLayer
+  - first:
+      74: 3033827180010168688
+    second: Group002.001|tongue7|Take 001|BaseLayer
+  - first:
+      74: -5947090237609630149
+    second: Group002.001|tongue|Take 001|BaseLayer
+  - first:
+      74: -4280345867775299364
+    second: Group002.001|upper_teeh_01|Take 001|BaseLayer
+  - first:
+      74: 3035456561318237241
+    second: Group002.001|upper_teeh_02|Take 001|BaseLayer
+  - first:
+      74: -5354716501209195800
+    second: Group002.001|upper_teeh_03.001|Take 001|BaseLayer
+  - first:
+      74: 587688264672533993
+    second: Group002.001|upper_teeh_03|Take 001|BaseLayer
+  - first:
+      74: -8894085464705570640
+    second: Group002.001|upper_teeh_04.001|Take 001|BaseLayer
+  - first:
+      74: 6880040337951223067
+    second: Group002.001|upper_teeh_04|Take 001|BaseLayer
+  - first:
+      74: 5691646955538992240
+    second: Group002.001|upper_teeh_05|Take 001|BaseLayer
+  - first:
+      74: -8565019423780806279
+    second: Group002.001|upper_teeh_06|Take 001|BaseLayer
+  - first:
+      74: -1187039076099029230
+    second: Group002.001|upper_teeh_07|Take 001|BaseLayer
+  - first:
+      74: -6239075403061293539
+    second: Group002.001|upper_teeh_08|Take 001|BaseLayer
+  - first:
+      74: -4926756228202154482
+    second: Group002.001|upper_teeh_09|Take 001|BaseLayer
+  - first:
+      74: -7942361864633741272
+    second: Group002.001|u|Take 001|BaseLayer
+  - first:
+      74: 5603634482118720283
+    second: Group002.001|w|Take 001|BaseLayer.001
+  - first:
+      74: 7993882411566384693
+    second: Group002.001|yamuk|Take 001|BaseLayer
+  - first:
+      74: 3137987473363625088
+    second: Group002.001|yanak_kaldirir|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: 507c2fe040cd0f345a4c907ccac225e1
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: a3095a169c322d845a303e579b5c96d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair
+    second: {fileID: 2100000, guid: 28f7350a714ff42438df1a49da3908fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color 1
+    second: {fileID: 2100000, guid: f3033ad19de42fc45a33433b27c70396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color 2
+    second: {fileID: 2100000, guid: 42686622c5012e44cad94473f3a35aec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color 3
+    second: {fileID: 2100000, guid: 17c52081ea7adbf4eb1abaf9aef1a5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark
+    second: {fileID: 2100000, guid: 41a03ab22a6791f47bef67a867c08260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Losck screen
+    second: {fileID: 2100000, guid: 6ddd3b977b6b3c848a91d811c1f0a651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 7d3d74478e0b24940bae1afab2ab2205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 60b1993bb76e68b4dbc0678b2e470ac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: c266bbabbf228074cb092e26f260d0a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 09ada49c9148e3f4f8530d56f32f196c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 6bfea937da2861147bd281385602cbf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 1e4b68e5fb33b3a4e98d926b70d809c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 32de1c63217a48d43b669f129cd814a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 59fa9e23666448f4f9226fc466cb1182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 52ab50c5a9bc68f409a0e4d2ece7b4a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 162ecac9d081f234ab0801225a94e2d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 75147535bda28b4428f65f0ae4c76aae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: a4bcbb43c0d2328498524a2579b7e6d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 834d48d1eca3cb84ab7cce430efbc864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 59f9ef0498fd5d24a904f3a484255793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 195ecb7247517f24ebb1aa456fb18a64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 252219a65385070428e10db93157faf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 10d5a63ed4b005b4492e9503f9ef1b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: aa7a3a87836be39468f0d2b846ab67a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: aff3a53aa4ea02945bb086ae7816d7d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: 05adc03027a67b240be09161214d17d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.021
+    second: {fileID: 2100000, guid: c36b201d43e53eb4a90a93b9bb10502c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.022
+    second: {fileID: 2100000, guid: 1dc4e118fb133704fa2a62589356cebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.023
+    second: {fileID: 2100000, guid: abbd603f45cce774886f3326ae497b45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.024
+    second: {fileID: 2100000, guid: f7b1e8185e334df41b11c53b28c833df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: f4d4ec6bbfab44946aca20eb8fbd7884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: 0cbab8e959431e84080894e280652e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.027
+    second: {fileID: 2100000, guid: 98a3973a7d6f52b4fb6ef8235d258289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.028
+    second: {fileID: 2100000, guid: 48a3d6129316c4e42b5331577f75d1d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: d827f0d6ce5ff934dacebbdcf0a44be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: 8e32a7af149c55545bc8777fe84a5261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.031
+    second: {fileID: 2100000, guid: 2e86a216992367948a11c79f03230563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: 156f473b65476ff43a7999fb7c3d1624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: 6408cf887574f3e40bc8509caa87c8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.034
+    second: {fileID: 2100000, guid: 0d949127a0c02094a801cc8130e9089e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.035
+    second: {fileID: 2100000, guid: ecbb71c7bc5a9da479a5f3a6406851e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.036
+    second: {fileID: 2100000, guid: 92604066149450a489f24949e396f5ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.037
+    second: {fileID: 2100000, guid: 3e7d981cec08f7144a2815f6168a9022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.038
+    second: {fileID: 2100000, guid: 5fa5296e0bb91a54487b172d59379d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.039
+    second: {fileID: 2100000, guid: 9c2af0c733ce1ca4ebc164033a2a60a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.040
+    second: {fileID: 2100000, guid: 95d13935aa785084d8d1e4638dcd2969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.041
+    second: {fileID: 2100000, guid: c96a36d9c7bb05e40bfc46288e22a690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.042
+    second: {fileID: 2100000, guid: 2745996cbe61dca4c9e1f68da31c924f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.043
+    second: {fileID: 2100000, guid: bbe0810a94e0830488e8c02b21906b4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 82bdb5ab3351d3e4c9ef62f36cfddaf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tkan
+    second: {fileID: 2100000, guid: 85dca2d6bdd39ed49ad97bb9ad8394b3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric031_2K_Color
+    second: {fileID: 2800000, guid: e138a4a2e0852fa4199fe2e6bdf72812, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric031_2K_NormalGL
+    second: {fileID: 2800000, guid: d1cbaff0325c17940b11c8719397aa0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric031_2K_Roughness
+    second: {fileID: 2800000, guid: a15debbd6c38b4b4890443e741be777b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.001_BaseColor
+    second: {fileID: 2800000, guid: ad5d331546f16d9488bdf4b16854a8d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.001_Metallic
+    second: {fileID: 2800000, guid: 8469f02ef2537d944a796aa03cd2124b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.001_Normal
+    second: {fileID: 2800000, guid: 4e745c5730f24b54ba07574112cfe590, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.001_Roughness
+    second: {fileID: 2800000, guid: a7549be4595fd1d468d011990671b0c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.002_BaseColor
+    second: {fileID: 2800000, guid: 96d20d4e4f17ac44aaec10db1999e6c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.002_Metallic
+    second: {fileID: 2800000, guid: 4c974fac34e923a4c8cfb10aa51de01a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.002_Normal
+    second: {fileID: 2800000, guid: 68550f53ec0fdef48afc1c8f94fc6b05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.002_Roughness
+    second: {fileID: 2800000, guid: 334c569c4351a4342ba424d866f084e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.003_BaseColor
+    second: {fileID: 2800000, guid: 2ab0222e07941164faab3ef59b154205, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.003_Metallic
+    second: {fileID: 2800000, guid: c806da8b4509b4a4c963988c2e61abf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.003_Normal
+    second: {fileID: 2800000, guid: 6afe3c449d356f140a99713bb2127ee6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.003_Roughness
+    second: {fileID: 2800000, guid: 5d063b66bd19a4d438f8a642ce02a9d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.004_BaseColor
+    second: {fileID: 2800000, guid: 5426d208586074a4d8c5f23825fa4476, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.004_Metallic
+    second: {fileID: 2800000, guid: a586bdd82f4d00041af63f45ed1553d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.004_Normal
+    second: {fileID: 2800000, guid: d5904fbd0f872e541a32a4e2ab225512, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.004_Roughness
+    second: {fileID: 2800000, guid: ba8c52d044e40094a8dc7a917546f875, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.005_BaseColor
+    second: {fileID: 2800000, guid: be2458eb944737c4992699806f7f567b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.005_Metallic
+    second: {fileID: 2800000, guid: 81fe0388bffe65d43b3f3e5eff7ebfcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.005_Normal
+    second: {fileID: 2800000, guid: c2889024fd258c84f8827a0f486627ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.005_Roughness
+    second: {fileID: 2800000, guid: 8450a8caa9893d2479c605c57bc6d4e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.006_BaseColor
+    second: {fileID: 2800000, guid: 0c84f5d9f07487846b8d225ec25b5cde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.006_Metallic
+    second: {fileID: 2800000, guid: 2caa812c2a8d7624db566d0550955c60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.006_Normal
+    second: {fileID: 2800000, guid: 2a800051b936a314f8a3ece1e74ffa07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.006_Roughness
+    second: {fileID: 2800000, guid: 4c1690ce86b25a344be214a5331ca2cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.007_BaseColor
+    second: {fileID: 2800000, guid: 74f4350d331bfed4dafc89d411131ea1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.007_Metallic
+    second: {fileID: 2800000, guid: ebfff9dc1601b394eac2c66c4f2f7730, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.007_Normal
+    second: {fileID: 2800000, guid: ce8c95ae9d29b22419a7ea92a1b62d51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.007_Roughness
+    second: {fileID: 2800000, guid: aa8f97c88107fb344aee94f3fa9aea43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.008_BaseColor
+    second: {fileID: 2800000, guid: e7233ad7d2b24a747a03043866501ad4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.008_Metallic
+    second: {fileID: 2800000, guid: 8fcfa82e618eb9245a45330ae6468f87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.008_Normal
+    second: {fileID: 2800000, guid: 7acaaf5626113f949bae848035cd81b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.008_Roughness
+    second: {fileID: 2800000, guid: d67685079b7c0994ebfea00f8eafeea2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.009_BaseColor
+    second: {fileID: 2800000, guid: 49927282e190d3243b6254db7d6187e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.009_Metallic
+    second: {fileID: 2800000, guid: 9f202e755618e5e469e670bd16286346, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.009_Normal
+    second: {fileID: 2800000, guid: da001b378d60ada41ab686caa1bb2f79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.009_Roughness
+    second: {fileID: 2800000, guid: edbf191705ecbb848b5e80b8eaddbf7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.010_BaseColor
+    second: {fileID: 2800000, guid: 9509fbe6f73c88449801f1de21305d52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.010_Metallic
+    second: {fileID: 2800000, guid: e2140f3a9ee089146b126b28459a6b6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.010_Normal
+    second: {fileID: 2800000, guid: ca732aaec6bac024483cb3c619b54ea6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.010_Roughness
+    second: {fileID: 2800000, guid: b73ce6d6f4cb80c45b4a45ffa6ac88ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.011_BaseColor
+    second: {fileID: 2800000, guid: f1923214b8e93b245aec54b318538661, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.011_Metallic
+    second: {fileID: 2800000, guid: 2c6dc081158bb4c48876304d8c62627a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.011_Normal
+    second: {fileID: 2800000, guid: 869ebe487a54c8a41987d3410b11dfa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.011_Roughness
+    second: {fileID: 2800000, guid: 344663207d52c4c4f8a693a89d89a7ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.012_BaseColor
+    second: {fileID: 2800000, guid: f0cc2a22b46366642993354f4b84090f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.012_Metallic
+    second: {fileID: 2800000, guid: b2b32b477a541074d99ef5baade2f98d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.012_Normal
+    second: {fileID: 2800000, guid: 7ff5a7597e858e54d8088aae16633ecc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.012_Roughness
+    second: {fileID: 2800000, guid: 2880b5e6daa8e78499a6b6935ad655ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.013_BaseColor
+    second: {fileID: 2800000, guid: da9f26bbc8093754b95c41477934bf8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.013_Metallic
+    second: {fileID: 2800000, guid: c5263d5cfb312b242a464cce2945a78a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.013_Normal
+    second: {fileID: 2800000, guid: c0b264e4f51f41c4fb2a704452a25d9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.013_Roughness
+    second: {fileID: 2800000, guid: bdbdf7705dc612f4aac84d07b505fdc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.014_BaseColor
+    second: {fileID: 2800000, guid: 23a937782ce7c764db085ed0e38eccbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.014_Metallic
+    second: {fileID: 2800000, guid: 0ea1d38923b8c924f98a539f651f3bff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.014_Normal
+    second: {fileID: 2800000, guid: 8a46d30ce2f62cc4da5baaf3730c80ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.014_Roughness
+    second: {fileID: 2800000, guid: 8422b590608819b409406b74e3778c3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.015_BaseColor
+    second: {fileID: 2800000, guid: 68d4f7d6a7c1ba84e8f8e4293d327bc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.015_Metallic
+    second: {fileID: 2800000, guid: 5847efc831d28534d979378ea696c5f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.016_BaseColor
+    second: {fileID: 2800000, guid: 6d4ad900e5f23fe41a5a384917827aa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.016_Metallic
+    second: {fileID: 2800000, guid: 04a8c5b7d93537b4aa75212504a1d41f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.016_Normal
+    second: {fileID: 2800000, guid: f2e3fd4f13b7f26409dd99019048af8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.016_Roughness
+    second: {fileID: 2800000, guid: b31ef29cfef8e3441a155e2285dd9c55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.017_BaseColor
+    second: {fileID: 2800000, guid: 100bd76bb005aad4ebcb077a90f07390, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.017_Metallic
+    second: {fileID: 2800000, guid: 821c19fa45dbf434896b44d02d6595f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.017_Normal
+    second: {fileID: 2800000, guid: 7a8e14c1430055c44836c3d47e8a82e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.017_Roughness
+    second: {fileID: 2800000, guid: 4da7ee55929863141b10bf7368c79126, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.019_BaseColor
+    second: {fileID: 2800000, guid: 31d71dbb82119b14d98e1bdcf62247b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.019_Metallic
+    second: {fileID: 2800000, guid: d72802f94b032df46b239001442e8e99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.019_Normal
+    second: {fileID: 2800000, guid: e469200b689c1b14e8505c328af758fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.019_Roughness
+    second: {fileID: 2800000, guid: 4a2a3fea17483b14489fb06e4fd76153, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.020_BaseColor
+    second: {fileID: 2800000, guid: 8f748753f4a3e634197195ccde64696e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.020_Metallic
+    second: {fileID: 2800000, guid: 9176c209c8cc4584abc3a23dc3628133, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.020_Normal
+    second: {fileID: 2800000, guid: ff6e341b00b40774dae229a36e29a70b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.020_Roughness
+    second: {fileID: 2800000, guid: 06a5ff17e9377b4439fb6f5417d50ccc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.021_BaseColor
+    second: {fileID: 2800000, guid: 396a101d40ddee8459c5afe16468ed82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.021_Metallic
+    second: {fileID: 2800000, guid: 4cf66230b70e4794c8d80b8891b851cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.021_Normal
+    second: {fileID: 2800000, guid: 956ed2076ee70d0439b4731fa921143f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.021_Roughness
+    second: {fileID: 2800000, guid: 803cc45e2a36690408411af00f88db01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.022_BaseColor
+    second: {fileID: 2800000, guid: 8305ae4b2b7bfe8478d53e9b9dd7ead2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.022_Metallic
+    second: {fileID: 2800000, guid: 16c5fedf7ddd11841b5a0c33c370c268, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.022_Normal
+    second: {fileID: 2800000, guid: c5be88952b25563448aa20206fc97d5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.022_Roughness
+    second: {fileID: 2800000, guid: 43d8e8939423bd04f8a46d8482404490, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.023_BaseColor
+    second: {fileID: 2800000, guid: b4a4688b186775c43a949fb4ea114170, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.023_Metallic
+    second: {fileID: 2800000, guid: 3aa2eda14c54dc241b7eebaa15b9efe1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.023_Normal
+    second: {fileID: 2800000, guid: 2feaa33e36cce6b4c8689301922e7a39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.023_Roughness
+    second: {fileID: 2800000, guid: 824955567e02c39408c5728a3839b431, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.024_BaseColor
+    second: {fileID: 2800000, guid: ec4f2c1a3a617554490109bc18cb8583, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.024_Metallic
+    second: {fileID: 2800000, guid: 7be700fab550e6b4a9fbee5a82771b89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.024_Normal
+    second: {fileID: 2800000, guid: c07aab6778fc7be4c9babf65eeaa19a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.024_Roughness
+    second: {fileID: 2800000, guid: 27234f3601ae9b643a78e3303d4246c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.025_BaseColor
+    second: {fileID: 2800000, guid: 83f632b298651ba49846359684109909, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.025_Metallic
+    second: {fileID: 2800000, guid: 53531a60ba5c04f48960d996f709bf09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.025_Normal
+    second: {fileID: 2800000, guid: c1c436c346a6a184a9f16126cc026793, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.025_Roughness
+    second: {fileID: 2800000, guid: 47a08456f2f619f4faf057da5f2c6d27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.026_BaseColor
+    second: {fileID: 2800000, guid: fcde11318de9b134ea91489bae41a846, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.026_Metallic
+    second: {fileID: 2800000, guid: 34cda2a4eda76524f8e7e95225c6360c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.026_Normal
+    second: {fileID: 2800000, guid: aaea8e16116a2f843b45c06fb7a4da74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.026_Roughness
+    second: {fileID: 2800000, guid: 35ecf09f7118735408d2d6c0ffbe9579, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.027_BaseColor
+    second: {fileID: 2800000, guid: 05817d858c7d3104a9b06c3c7586af77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.027_Metallic
+    second: {fileID: 2800000, guid: c972483c16c23b143a331db9650491da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.027_Normal
+    second: {fileID: 2800000, guid: c94f1ce0b8811be40b9fe60f9396ae1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.027_Roughness
+    second: {fileID: 2800000, guid: 6e6b82e4a88d58248be43606bf731445, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.028_BaseColor
+    second: {fileID: 2800000, guid: 4e6cfcb7bf37e294a8b63645e8a77760, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.028_Metallic
+    second: {fileID: 2800000, guid: b56c35be7a927a2499bd78759013a13e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.028_Normal
+    second: {fileID: 2800000, guid: cdd2b445beb62bd4ab890e9be17b6ba0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.028_Roughness
+    second: {fileID: 2800000, guid: 4a54719700afd8f4b8a04384191c8b38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.029_BaseColor
+    second: {fileID: 2800000, guid: 0de7653ca602bee46a82be8663280fea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.029_Metallic
+    second: {fileID: 2800000, guid: 32cd36a12a537c44d991262c6fbbe7c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.029_Normal
+    second: {fileID: 2800000, guid: 088f25ff6465fd1458fe5036c08f213b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.029_Roughness
+    second: {fileID: 2800000, guid: 2402a273d99f1df459f699f177177def, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.030_BaseColor
+    second: {fileID: 2800000, guid: f989e02cb3ab2724ab03511040374b65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.030_Metallic
+    second: {fileID: 2800000, guid: 5ccb4e0502288b54c9c1a57edb568383, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.030_Normal
+    second: {fileID: 2800000, guid: 77ba56898b975f344ae8995b72bedbae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.030_Roughness
+    second: {fileID: 2800000, guid: 736a44e93186e35449d7217a65e046bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.031_BaseColor
+    second: {fileID: 2800000, guid: 008ad232cd70a234bbfb9e714ab0692d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.031_Metallic
+    second: {fileID: 2800000, guid: 7ade302323796c74e8f9c50de338924e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.031_Normal
+    second: {fileID: 2800000, guid: 40e30f179aa2ce9488df30d31272b4f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.031_Roughness
+    second: {fileID: 2800000, guid: cfdefb8c80c3be8439b86264be3da9db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.032_BaseColor
+    second: {fileID: 2800000, guid: 16cc9c9a98d6e6342916ce98f8985637, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.032_Metallic
+    second: {fileID: 2800000, guid: 30666d7e0244a124fa2f2df512fb8224, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.032_Normal
+    second: {fileID: 2800000, guid: 0305fc790fc709c4e822fd00b7b604a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.032_Roughness
+    second: {fileID: 2800000, guid: 27fc1f036445ce54a84b0799d2d553e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.034_BaseColor
+    second: {fileID: 2800000, guid: 97923a1c23094b4459dcb4fbd7a41d7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.034_Metallic
+    second: {fileID: 2800000, guid: c68daad37dd4a4c46923e3e6eb4de109, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.034_Normal
+    second: {fileID: 2800000, guid: 1c99c744916b5aa4eb64ff5ce7360383, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.034_Roughness
+    second: {fileID: 2800000, guid: d7764c87a522a53489ff0a92335dbec4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.036_BaseColor
+    second: {fileID: 2800000, guid: 3427339896d060642a1431070d2050bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.036_Metallic
+    second: {fileID: 2800000, guid: e13264434187db94e9d7f4b01476a88a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.036_Normal
+    second: {fileID: 2800000, guid: cf3b647d3ca95824e996d1789d70755c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.036_Roughness
+    second: {fileID: 2800000, guid: f38095045c582a742bdc1c2147bf5679, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.037_BaseColor
+    second: {fileID: 2800000, guid: 2dc59006b25eb0a478e76c4dc5da2890, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.037_Metallic
+    second: {fileID: 2800000, guid: 8613de02ec2c5cd438b0a866584619a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.037_Normal
+    second: {fileID: 2800000, guid: ec11e3007e0f9fc428811bfd40036315, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.037_Roughness
+    second: {fileID: 2800000, guid: 4733c9ccbd351e34382e7f570c00c7fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.038_BaseColor
+    second: {fileID: 2800000, guid: b05640f7f049abc439d447a055ebfcc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.038_Metallic
+    second: {fileID: 2800000, guid: 8d557c0e0757b1542be6513530a27822, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.038_Normal
+    second: {fileID: 2800000, guid: 3a5b073719a79d94d8d2182558990c1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.038_Roughness
+    second: {fileID: 2800000, guid: ae30f4ae3752bc247b6ecf1caf6a42ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.040_BaseColor
+    second: {fileID: 2800000, guid: 8be6055a7c3aa4246ab9f6f21256b6fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.040_Metallic
+    second: {fileID: 2800000, guid: 3bbdf0bf7874d084a8b4f856d59b88f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.040_Normal
+    second: {fileID: 2800000, guid: 7290a449b53583749bdafb575842878e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_Material.040_Roughness
+    second: {fileID: 2800000, guid: 732718d3aacf9874f87e7b1668ff5a19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_tkan_BaseColor
+    second: {fileID: 2800000, guid: 9808d1fd1be928c46a59eeae504ad306, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_tkan_Metallic
+    second: {fileID: 2800000, guid: 5b28bd424bb5b744c9dd6ae543fe01d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konseptttssssssssss_tkan_Roughness
+    second: {fileID: 2800000, guid: 1b36a6305ab09bf4a8fd1e2d00602985, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
